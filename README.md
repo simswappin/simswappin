@@ -4,6 +4,6 @@
 
 <div>
 <div align='center'>
-<a href='https://discordapp.com/users/383037944635850763'><img align='center' alt='My stats' src='https://discord.c99.nl/widget/theme-4/383037944635850763.png'></img></a>
+<a href='https://discordapp.com/users/383037944635850763'><img align='center' alt='My stats' src='https://api.status.gg/discord/383037944635850763'></img></a>
 <br /><br/>
  
